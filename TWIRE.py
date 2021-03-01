@@ -3,8 +3,8 @@ import os
 from os import system
 # a.upper()
 # a.title()
-print ("  Coded by me0w  ")
-print ("  https://github.com/coder-me0w  ")
+print ("  Coded by quesy  ")
+print ("  https://github.com/mosyodoruk  ")
 
 system("title "+"TWIRE")
 try:
